@@ -52,9 +52,9 @@ function App() {
           <Box className={classes.intro} style={{ height: "10vh" }}>
             <Typography variant="h5" className={classes.title}>
               Hello,
-              <Typography variant="h3">I'm Shikai Jin</Typography>
+              <Typography variant="h3">I'm Xiaolu Wang</Typography>
               <Typography variant="h5" color="primary">
-                Master of Management in Data Analytics Candidate
+                M.Eng Candidate
               </Typography>
               <Typography variant="subtitle1">University of Windsor</Typography>
             </Typography>
